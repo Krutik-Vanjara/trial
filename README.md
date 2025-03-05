@@ -68,6 +68,27 @@ Furthermore, the banking sector faces specific recruitment challenges that AI is
 
 For these reasons, the following implementation plan will focus specifically on deploying AI-powered recruitment solutions in a banking environment.
 
+Here’s a table summarizing the most common AI use cases in Human Resources, along with their descriptions, benefits, and examples:
+
+| **AI Use Case**                    | **Description**                                                                 | **Benefits**                                                                                  | **Examples**                                      |
+|------------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------|
+| **Recruitment and Talent Acquisition** | Automating candidate sourcing, screening, and matching to job roles.          | Reduces time-to-hire, improves candidate quality, expands talent pool.                       | HireVue, LinkedIn Recruiter                        |
+| **Resume Screening**               | Using AI to analyze resumes and match candidates to job descriptions.           | Increases efficiency in initial screenings, reduces bias in candidate selection.              | Ladders, Pymetrics                                 |
+| **Automated Candidate Sourcing**   | Identifying potential candidates based on skills and experience.                | Expands candidate pool and reduces sourcing time.                                            | LinkedIn Recruiter                                  |
+| **Interview Scheduling**           | Automating the coordination of interview times between candidates and interviewers. | Minimizes scheduling conflicts and administrative workload.                                   | GoodTime                                            |
+| **Learning and Development**       | Personalizing training programs based on employee needs and performance data.   | Enhances employee engagement and skill development.                                          | Docebo                                             |
+| **AI-Powered Onboarding**          | Guiding new hires through the onboarding process with AI assistants.            | Ensures consistent onboarding experiences and accelerates employee adaptation.                | Talla                                              |
+| **Performance Management**         | Analyzing performance data to provide insights for evaluations and development.  | Supports objective evaluations and identifies training opportunities.                         | IBM Watson Talent                                  |
+| **Data-Driven Performance Analysis**| Using data analytics to assess employee performance objectively.                | Improves performance review accuracy and supports succession planning.                        | SAP SuccessFactors                                  |
+| **Skills Assessment**              | Evaluating candidates through automated skills tests to ensure role alignment.   | Reduces bias in hiring decisions by focusing on demonstrated abilities.                       | Vervoe                                             |
+| **Employee Engagement**            | Understanding employee sentiment through feedback analysis and surveys.          | Proactively addresses workplace issues and improves retention rates.                          | Culture Amp                                        |
+| **HR Chatbots**                    | AI-powered chatbots that respond to HR-related inquiries from employees.        | Improves HR responsiveness and reduces workload for HR teams.                                 | Leena AI                                           |
+| **Predictive Analytics**           | Using predictive modeling to forecast turnover and performance trends.           | Enables proactive retention strategies and better workforce planning.                         | Gloat                                              |
+| **Compensation Analysis**          | Analyzing salary trends to ensure competitive pay structures.                   | Helps retain talent by maintaining equitable compensation practices.                          | Payscale                                           |
+| **Operational Efficiency**         | Enhancing payroll accuracy and compliance monitoring through AI tools.           | Reduces manual errors, ensures regulatory compliance, improves service delivery.              | ADP                                               |
+
+This table captures the essence of the discussion regarding the most common AI use cases in HR, providing a clear overview of their functionalities, advantages, and real-world applications.
+
 ## Implementation Strategy for AI-Powered Recruitment in Banking
 
 Implementing AI-powered recruitment in a banking environment requires a comprehensive strategy addressing business objectives, stakeholder needs, technical requirements, and change management considerations. The following implementation plan provides a structured approach to successfully deploying this technology.
