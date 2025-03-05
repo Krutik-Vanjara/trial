@@ -1030,26 +1030,25 @@ Month 12: [Optimization][--------------]
 - Regulatory tracking for changes
 
 Citations:
-[1] https://redresscompliance.com/top-15-real-life-use-cases-for-ai-in-the-human-resources-industry/
-[2] https://www.jeda.ai/ai-for-hr-consultants
-[3] https://joshbersin.com/2023/09/the-role-of-generative-ai-in-hr-is-now-becoming-clear/
-[4] https://www.cliffordchance.com/content/dam/cliffordchance/briefings/2024/08/what-does-the-eu-ai-act-mean-for-employers.pdf
-[5] https://www.mercer.com/en-au/insights/people-strategy/future-of-work/the-impact-of-ai-in-hr-consulting/
-[6] https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-organization-blog/four-ways-to-start-using-generative-ai-in-hr
-[7] https://www.bcg.com/publications/2025/closing-the-ai-impact-gap
-[8] https://www.datenschutz-notizen.de/ai-and-hr-navigating-legal-obligations-in-europe-0548541/
-[9] https://www.itransition.com/ai/hr
-[10] https://www.mega-service-consulting.com/en/artificial-intelligence-for-human-resources-a-revolution-in-the-making/
-[11] https://www.aihr.com/resources/AIHR_HR_Trends_Report_2025.pdf
-[12] https://www.hunton.com/insights/legal/the-impact-of-the-eu-ai-act-on-human-resources-activities
-[13] https://www.gartner.com/en/human-resources/topics/artificial-intelligence-in-hr
-[14] https://www.bcg.com/capabilities/artificial-intelligence
-[15] https://www.reddit.com/r/consulting/comments/1ih9uaw/example_of_a_strategic_forecast_from_deep/
-[16] https://kpmg-law.de/en/ai-and-employment-law-what-the-ai-act-means-for-hr/
-[17] https://www.zartis.com/leveraging-ai-in-hr-use-cases-and-real-life-examples/
-[18] https://hr-path.com/en/blog/embracing-ai-in-hr-a-complete-practical-guide/2025/02/24/
-[19] https://www.theconsultingreport.com/capabilities/artificial-intelligence/
-[20] https://www.activemind.legal/guides/gdpr-ai-act/
+- [1] https://redresscompliance.com/top-15-real-life-use-cases-for-ai-in-the-human-resources-industry/
+- [2] https://www.jeda.ai/ai-for-hr-consultants
+- [3] https://joshbersin.com/2023/09/the-role-of-generative-ai-in-hr-is-now-becoming-clear/
+- [4] https://www.cliffordchance.com/content/dam/cliffordchance/briefings/2024/08/what-does-the-eu-ai-act-mean-for-employers.pdf
+- [5] https://www.mercer.com/en-au/insights/people-strategy/future-of-work/the-impact-of-ai-in-hr-consulting/
+- [6] https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-organization-blog/four-ways-to-start-using-generative-ai-in-hr
+- [7] https://www.bcg.com/publications/2025/closing-the-ai-impact-gap
+- [8] https://www.datenschutz-notizen.de/ai-and-hr-navigating-legal-obligations-in-europe-0548541/
+- [9] https://www.itransition.com/ai/hr
+- [10] https://www.mega-service-consulting.com/en/artificial-intelligence-for-human-resources-a-revolution-in-the-making/
+- [11] https://www.aihr.com/resources/AIHR_HR_Trends_Report_2025.pdf
+- [12] https://www.hunton.com/insights/legal/the-impact-of-the-eu-ai-act-on-human-resources-activities
+- [13] https://www.gartner.com/en/human-resources/topics/artificial-intelligence-in-hr
+- [14] https://www.bcg.com/capabilities/artificial-intelligence
+- [15] https://www.reddit.com/r/consulting/comments/1ih9uaw/example_of_a_strategic_forecast_from_deep/
+- [16] https://kpmg-law.de/en/ai-and-employment-law-what-the-ai-act-means-for-hr/
+- [17] https://www.zartis.com/leveraging-ai-in-hr-use-cases-and-real-life-examples/
+- [18] https://hr-path.com/en/blog/embracing-ai-in-hr-a-complete-practical-guide/2025/02/24/
+- [19] https://www.theconsultingreport.com/capabilities/artificial-intelligence/
+- [20] https://www.activemind.legal/guides/gdpr-ai-act/
 
----
-Answer from Perplexity: https://www.perplexity.ai/search/i-want-to-research-ai-in-human-ZZOMxTS1QoOMjdDolwD4YA?utm_source=copy_output
+
