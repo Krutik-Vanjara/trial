@@ -1,0 +1,31 @@
+stages:
+  - kics_scan
+  - kics_report
+  - deploy
+
+kics_scan:
+  stage: kics_scan
+  image: checkmarx/kics:latest
+  script:
+    - kics scan -p . -o kics_results.json
+  artifacts:
+    paths:
+      - kics_results.json
+    expire_in: 1 hour
+
+kics_show_results:
+  stage: kics_report
+  needs:
+    - job: kics_scan
+      artifacts: true
+  script:
+    - cat kics_results.json
+
+deploy:
+  stage: deploy
+  image: gcr.io/kaniko-project/executor:latest
+  script:
+    - echo "{\"auths\":{\"${CI_REGISTRY}\":{\"auth\":\"$(printf \"%s:%s\" \"${CI_REGISTRY_USER}\" \"${CI_REGISTRY_PASSWORD}\" | base64 | tr -d '\n')\"}}}" > /kaniko/.docker/config.json
+    - /kaniko/executor --context $CI_PROJECT_DIR --dockerfile Dockerfile --destination $CI_REGISTRY_IMAGE:$CI_COMMIT_SHORT_SHA
+  only:
+    - main
